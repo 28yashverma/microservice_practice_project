@@ -30,3 +30,10 @@ Servers
 mvnw
 mvnw.cmd
 elk/*
+
+EurekaServer/.mvn
+EurekaServer/.settings
+EurekaServer/target
+EurekaServer/classpath
+EurekaServer/.project
+EurekaServer/mvnw
